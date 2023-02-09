@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shobhit</h1>
-<h3 align="center">Front-end Developer</h3>
+<h3 align="center">A Passionate Software Engineer</h3>
 <!-- <img align="center" width="100%" height="50%" src="./profile.jpg"> -->
 
 
