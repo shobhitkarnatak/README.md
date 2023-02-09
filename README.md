@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **JS Based open source projects**
 
-- 💬 Ask me about **JAVASCRIPT, REACT JS, NEXT JS, REMIX.RUN, Angular**
+- 💬 Ask me about **JAVASCRIPT, REACT JS, NEXT JS, REMIX.RUN, ANGULAR**
 
 - 📫 How to reach me **karnatakshobhit@gmail.com**
 
