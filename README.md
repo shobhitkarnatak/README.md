@@ -3,13 +3,13 @@
 <!-- <img align="center" width="100%" height="50%" src="./profile.jpg"> -->
 
 
-- 🌱 I’m currently learning **AWS, Kubernetes**
+- 🌱 I’m currently learning **DOCKER, REMIX.RUN**
 
-- 👯 I’m looking to collaborate on **MERN Based open source projects**
+- 👯 I’m looking to collaborate on **JS Based open source projects**
 
-- 💬 Ask me about **JAVASCRIPT, REACT, NEXT, NODE, MONGODB, REMIX.RUN**
+- 💬 Ask me about **JAVASCRIPT, REACT JS, NEXT JS, REMIX.RUN, Angular**
 
-- 📫 How to reach me **bhushansingh696@gmail.com**
+- 📫 How to reach me **karnatakshobhit@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
